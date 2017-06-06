@@ -1,0 +1,8 @@
+Explication de la premiere faille en utilisant grub
+
+1) Lancer la vm.
+2) Appuyer sur tab pour booter avec des flags optionel
+3) Ajouter en option le flag init=/bin/bash
+4) Appuyer sur entree
+
+le system demarre directement sous bash loguer en root.
