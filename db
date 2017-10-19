@@ -1,0 +1,21 @@
+dans le forum il y a un mot de passe qui traine, surement une erreur dans le 
+champs user au lieu de mot de passe. 
+
+!q\]Ej?*5K5cy*AJ
+
+En testant avec tout les user (cat /etc/passwd) le compte laurie@borntosec.net
+le mdp match.
+
+Il y a une info interessante dans un mail .
+
+================================================================================
+
+Hey Laurie,
+
+You cant connect to the databases now. Use root/Fg-'kKXBj87E:aJ$
+
+Best regards.
+
+================================================================================
+
+On a le compte admin le la db.
