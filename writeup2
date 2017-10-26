@@ -1,0 +1,5 @@
+Frapper le clavier
+
+a lecran boot: taper
+
+/casper/vmlinuz file=/cdrom/preseed/custom.seed boot=casper initrd=/casper/initrd.gz quiet splash -- init=/bin/bash
